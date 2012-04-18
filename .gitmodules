@@ -1,0 +1,3 @@
+[submodule "WitsTSPCluster"]
+	path = WitsTSPCluster
+	url = git@github.com:ElectricAegis/WitsTSPCluster.git
