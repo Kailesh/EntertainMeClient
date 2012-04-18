@@ -11,4 +11,8 @@ forth commit!!
 fifth commit OOOOONNNNEE!
 
 
+<<<<<<< HEAD
 sixth committ twoooooooooo
+=======
+Sixthh commmmmitt
+>>>>>>> 84eb322c03d53a56be09c3397ee8bcc5f09d8f44
